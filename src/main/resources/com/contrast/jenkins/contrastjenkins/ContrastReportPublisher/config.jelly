@@ -1,0 +1,6 @@
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler" xmlns:d="jelly:define" xmlns:l="/lib/layout" xmlns:t="/lib/hudson" xmlns:f="/lib/form">
+  <!-- TODO: Make this a drop-down selection of Contrast Enabled Applications -->
+  <f:entry title="Application ID" field="applicationID">
+    <f:textbox />
+  </f:entry>
+</j:jelly>
